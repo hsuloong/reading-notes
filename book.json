@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "-lunr", "-search", "search-pro",
+        "expandable-chapters",
+        "splitter",
+        "back-to-top-button"
+   ]
+}

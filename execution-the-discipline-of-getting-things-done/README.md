@@ -4,12 +4,12 @@
 
 ### 大纲
 
+[思维导图源文件](https://github.com/hsuloong/reading-notes/tree/gh-pages-src/execution-the-discipline-of-getting-things-done/imgs/execution-outline.xmind)
 ![](./imgs/execution-outline.png)
 
 ### 阅读日志
 
-2020/06.02
-
+2020/06/02
 ```
 1.整理完大纲
 ```

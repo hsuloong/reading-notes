@@ -3,6 +3,30 @@
         "-lunr", "-search", "search-pro",
         "expandable-chapters",
         "splitter",
-        "back-to-top-button"
-   ]
+        "back-to-top-button",
+        "-sharing", "sharing-plus",
+        "tbfed-pagefooter",
+        "popup"
+   ],
+    "pluginsConfig": {
+        "sharing": {
+             "douban": true,
+             "facebook": true,
+             "google": true,
+             "pocket": true,
+             "qq": true,
+             "qzone": true,
+             "twitter": true,
+             "weibo": true,
+          "all": [
+               "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo", 
+               "messenger","qq", "qzone","viber","whatsapp"
+           ]
+       },
+       "tbfed-pagefooter": {
+            "copyright": "Copyright &copy dsx2016.com 2019",
+            "modify_label": "编辑于：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
 }

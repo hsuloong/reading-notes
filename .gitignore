@@ -343,7 +343,8 @@ MigrationBackup/
 # For Visual Studio Code
 .vscode/
 
-# Fro GitBook
+# For GitBook
 _book/
 
-
+# For Node Modules
+node_modules/

@@ -4,6 +4,8 @@
 
 `gh-pages`：Gitbook发布分支
 
+https://hsuloong.github.io/reading-notes/
+
 ### 笔记结构
 
 每本书独立成一章。

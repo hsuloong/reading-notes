@@ -32,3 +32,6 @@
     * [增加字体和颜色样式](head-first-html-and-css/Part-08.md)
     * [盒模型](head-first-html-and-css/Part-09.md)
     * [div与span](head-first-html-and-css/Part-10.md)
+    * [布局与定位](head-first-html-and-css/Part-11.md)
+    * [HTML5标记](head-first-html-and-css/Part-12.md)
+    * [建立表格](head-first-html-and-css/Part-13.md)

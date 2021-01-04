@@ -5,6 +5,7 @@
 ├─images              // 笔记用到的媒体资源
 └─practices           // 练习
     ├─absolute            // CSS 绝对定位练习
+    ├─form                // HTML 表单练习
     ├─journal             // HTML 列表练习
     ├─journal-css         // CSS 字体系列练习
     ├─journal-table       // HTML5 table练习

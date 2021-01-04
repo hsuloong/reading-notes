@@ -31,6 +31,11 @@ https://hsuloong.github.io/reading-notes/
 
 ### 更新日志
 
+2021/01/05
+```
+1.完成阅读《Head First HTML与CSS》
+```
+
 2020/12/20
 ```
 1.开始阅读《Head First HTML与CSS》

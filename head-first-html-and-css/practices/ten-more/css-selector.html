@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        p:first-letter {
+            font-size: 3em;
+        }
+
+        p::first-line {
+            font-style: italic;
+        }
+        img[width] {
+            border: black thin solid;
+        }
+        img[height="300"] {
+            border: red thin solid;
+        }
+        image[alt~="flowers"] {
+            border: #ccc thin solid;
+        }
+        h1+p {
+            font-style: italic;
+        }
+    </style>
+</head>
+
+<body>
+    <p>
+        This is p,This is p,This is p,This is p,This is p,This is p,This is p,This is p,This is p,This is p,This is
+        p,This is p,This is p,This is p,
+    </p>
+    <p>
+        img[width]:<br>
+        <img src="images/segway1.jpg" width="300"><br>
+        img[height="300"]:<br>
+        <img src="images/segway2.jpg" height="300"><br>
+        image[alt~="flowers"]:<br>
+        <img src="images/segway1.jpg" alt="flowers 1"><br>
+    </p>
+    <h1></h1>
+    <p>
+        h1+p { font-style: italic;}
+    </p>
+</body>
+
+</html>

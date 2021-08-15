@@ -22,25 +22,19 @@
 
 - [领域驱动设计与模式实战](https://book.douban.com/subject/4058874/)
 
-    是《实现领域驱动设计》提到的书，这里占个坑
-
 - [DDD社区](https://www.dddcommunity.org/)
-
-    DDD社区，可以看看上面写的文章。
 
 - [领域驱动设计峰会DDD-China](http://ddd-china.com/)
 
-    还没具体了解，先占个坑。
-
-- [Vaughn Vernon](http://www.vaughnvernon.com/)
-
-    《实现领域驱动设计》作者官网
+- [实现领域驱动设计作者Vaughn Vernon官网](http://www.vaughnvernon.com/)
 
 - [设计模式：可复用面向对象软件的基础](https://book.douban.com/subject/1052241/)
 
 - [企业应用架构模式](https://book.douban.com/subject/4826290/)
 
 - [Head First 设计模式](https://book.douban.com/subject/2243615/)
+
+- [Twitter@VaughnVernon](https://twitter.com/VaughnVernon)
 
 
 #### 本书读书笔记目录说明

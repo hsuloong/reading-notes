@@ -9,3 +9,6 @@
 
 * [程序设计：写出优雅的代码](computer-programming/README.md)
     * [设计模式](computer-programming/notes/design-patterns.md)
+
+* [编程语言：与计算机沟通](programming-language/README.md)
+    * [HTML/JS/CSS...](programming-language/notes/html-javascript-css.md)
